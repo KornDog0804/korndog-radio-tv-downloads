@@ -6,3 +6,5 @@ Test builds of the KornDog Radio TV Android TV app. **Staging only, not a releas
 - `SHA256SUMS.txt`: checksum to verify the download
 
 The APK contains no passwords, server keys or tokens. Source code lives in a private repository.
+
+Build: staging 16, UI refinement (ui/vintage-radio, source commit 0bbb670, CI 1d6ebe2).
